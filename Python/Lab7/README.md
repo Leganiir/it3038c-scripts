@@ -6,4 +6,5 @@ To install, run "pip install langdetect"
 
 I recommend that when running the commands in the lab file, run them inside a terminal, rather than making a script.
 Run "python" in terminal and run langdetect commands.
+
 ![image](https://github.com/Leganiir/it3038c-scripts/assets/142620485/a4e42fb2-9ca9-4ee8-b390-7748dd63d346)
