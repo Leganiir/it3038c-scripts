@@ -69,7 +69,7 @@ StartingAmount.grid(row=1, column=1, sticky=W)
 label = tkinter.Label(root, text="From: ", font=('Times New Roman', 14))
 label.grid(row=2, column=0, sticky=E, pady=2)
 
-#Creates the "Two" label
+#Creates the "To" label
 label = tkinter.Label(root, text="To: ", font=('Times New Roman', 14))
 label.grid(row=3, column=0, sticky=E)
 
